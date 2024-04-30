@@ -1,0 +1,28 @@
+{
+  "name": "integracao-api-pagarme",
+  "version": "1.0.0",
+  "description": "ingegração de api com a pagar.me utilizando axios",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fabiorodolfo84/integracao-api-pagarme.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fabiorodolfo84/integracao-api-pagarme/issues"
+  },
+  "homepage": "https://github.com/fabiorodolfo84/integracao-api-pagarme#readme",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
